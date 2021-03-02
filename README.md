@@ -8,7 +8,7 @@
 
 
     Hey there 👋
-    I’m Jahidul Islam Rahat, a Research & Development Engineer(Embedded Software), creative coder.
+    I’m Jahidul Islam Rahat, a Research & Development Engineer(Embedded Software), creative coder..
 
 
 ## 📌 Pinned Repositories
