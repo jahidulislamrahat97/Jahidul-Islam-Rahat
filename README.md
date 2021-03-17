@@ -9,7 +9,12 @@
 
 ```
 Hey there 👋
-     I’m Jahidul Islam Rahat, 22 years old. I'm a self-taught Embedded Software Developer. I have been working on different platforms such as Robotic, IoT, Automation since 2016. Recently I grew some interest in the Machine Learning platform. I am currently pursuing my 2nd year Bachelor of Engineering in CSE from Bangladesh. I'm interested in doing research on Robotics, IoT, Vision related problems. I love to work with new technologies and playing with AI.
+     I’m Jahidul Islam Rahat, 22 years old. I'm a self-taught Embedded Software Developer. 
+     I have been working on different platforms such as Robotic, IoT, Automation since 2016.
+     Recently I grew some interest in the Machine Learning platform. 
+     I am currently pursuing my 2nd year Bachelor of Engineering in CSE from Bangladesh. 
+     I'm interested in doing research on Robotics, IoT, Vision related problems. 
+     I love to work with new technologies and playing with AI.
 ```
 
 
