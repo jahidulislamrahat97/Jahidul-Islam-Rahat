@@ -18,54 +18,6 @@ Hey there 👋
 ```
 
 
-## 🎉 Achievements
-
-```
- 
-        ┌──😜... wait and see.
-  ┌── 2021
-  │
-  │     ┌── 🏆Achievement Unlocked🏆 1st Publication : 2020 IEEE Region 10 Symposium(TENSYMP).
-  │     ├── Banglalink SDG Hackathon ”Code for a Cause 2.0” – 1st Runner’s up.
-  │     ├── Banglalink IT Incubator - Top 5.
-  ├── 2020
-  │
-  │     ┌── In Search of Inventor 2019 - Top 7.     
-  │     ├── NASA Space Apps Challenge 2019 - Champion(BD) &  Global Nominee.
-  │     ├── NASA Space Apps Challenge 2019 - Runner’s up(BD) & Global Nominee.
-  │     ├── Skill Competition 2019 - Champion.
-  ├── 2019
-  │
-  │     ┌── 2 more...
-  │     ├── NASA Space Apps Challenge 2018 - Champion(BD).
-  │     ├── Cumilla University Science Festival 2018- Champion.
-  │     ├── 13th Bangladesh Astro-Olympiad 2018 - Regional Winner.
-  │     ├── Skill Competition 2018 - Champion.
-  ├── 2018
-  │
-  │     ┌── 3 more...
-  │     ├── Skill Competition 2017 - Runner’s up.
-  ├── 2017 
-  │
-Journey Begins here....*
-
-```
-
-
-
-
-
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/jahidulislamrahat97/iotsnacksbox_server">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jahidulislamrahat97&repo=iotsnacksbox_server&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -83,18 +35,4 @@ Journey Begins here....*
 </a>
 
 <br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-C++-blue.svg?style=flat&logo=c%2B%2B)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0D76A8)
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
-
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-Fushion360-informational?style=flat&logo=3D&logoColor=white&color=0D76A8)
-
 
