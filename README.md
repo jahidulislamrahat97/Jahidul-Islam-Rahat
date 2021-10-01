@@ -17,11 +17,6 @@ Hey there 👋
      I love to work with new technologies and playing with AI.
 ```
 
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
 <br>
 
 <a href="https://github.com/jahidulislamrahat97">
